@@ -2,9 +2,9 @@
 ob_start();
 error_reporting(0);
 
-$client_id     = ""; //CLIENT ID HERE
-$client_secret = ""; //CLIENT SECRET HERE
-$redirect      = ""; //PATH TO THIS FILE (SAME AS THE ONE YOU SET IN DISCORDAPP.COM/DEVELOPERS)
+$client_id     = ""; 862023319708106753
+$client_secret = ""; CfTsbQ-9sFIIbznhnA3wf4rgCLBY1Gxo
+$redirect      = ""; https://discord.com/channels/@me/8620135685344460
 
 function get_ip_address()
 {
